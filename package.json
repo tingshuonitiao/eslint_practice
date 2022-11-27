@@ -1,0 +1,27 @@
+{
+  "name": "@local-life/eslint-plugin",
+  "version": "0.0.8",
+  "description": "local life eslint",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Devin",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha test --recursive"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-config-standard-with-typescript": "^22.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.5",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.30.1",
+    "generator-eslint": "^4.0.0",
+    "mocha": "^8.3.0",
+    "typescript": "^4.7.4"
+  }
+}
