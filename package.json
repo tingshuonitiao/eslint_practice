@@ -1,7 +1,7 @@
 {
-  "name": "@local-life/eslint-plugin",
+  "name": "@tingshuonitiao/eslint-plugin",
   "version": "0.0.8",
-  "description": "local life eslint",
+  "description": "tingshuonitiao eslint",
   "keywords": [
     "eslint",
     "eslintplugin",
